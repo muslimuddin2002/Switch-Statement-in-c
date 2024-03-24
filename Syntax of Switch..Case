@@ -1,0 +1,16 @@
+Syntax of Switch ...Case
+
+switch(expression)
+{
+    case constsnt1:
+    // statements
+    break;
+     case constsnt1:
+    // statements
+    break;
+    .
+    .
+    .
+    default:
+    // default statements
+}
